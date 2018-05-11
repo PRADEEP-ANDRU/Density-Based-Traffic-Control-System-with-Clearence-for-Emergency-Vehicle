@@ -13,8 +13,8 @@ In today’ s world, during rush hours, emergency vehicles get stuck in jams. Ne
 # Components Used
 -> Arduino Mega <br/>
 -> IR Sensors <br/>
--> RFID Reader and Tags <br/>
--> RGB Led <br/>
+-> MFRC522 RFID Reader and Tags <br/>
+-> Cathode RGB Led <br/>
 -> Breadboard <br/>
 -> Jumper Wires <br/>
 
